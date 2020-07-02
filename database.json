@@ -1,0 +1,20 @@
+[
+{
+  "model": "userlist.users",
+  "pk": 2,
+  "fields": {
+    "user": "test1",
+    "role": "testrole1",
+    "registration_date": "2002-02-02"
+  }
+},
+{
+  "model": "userlist.users",
+  "pk": 3,
+  "fields": {
+    "user": "test2",
+    "role": "testrole2",
+    "registration_date": "2003-03-03"
+  }
+}
+]
